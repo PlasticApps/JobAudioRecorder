@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+.DS_Store
+.idea
+Logs
+ProjectSettings
+Assets/Plugins
